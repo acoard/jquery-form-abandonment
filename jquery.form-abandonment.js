@@ -1,12 +1,8 @@
 /*!
- * jQuery.FormAbandonment.js
+ * jquery.form-abandonment.js
  * Written by Adam Coard - @AdamCoard
- * Original author jQuery plugin boilerplate author: @addyosmani
+ * Original jQuery plugin boilerplate author: @addyosmani
  * Licensed under the MIT license
- */
- 
-/**
- * 
  */
 
 

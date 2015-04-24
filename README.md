@@ -2,9 +2,9 @@
 
 jQuery-Form-Abandonment is a simple jQuery plugin that makes tracking form engagement and abandonment a breeze.
 
-This project is in its early stages, but already gets the job done.
+This project is in its early stages, but already gets the job done.  You can use it to see whether users are filling out your forms, leaving half-way through filling out your forms, and what fields they're filling out when they submit them.
 
-Current version: 0.1.0.
+Current version: 1.0.0.
 
 ###Requirements:
 
@@ -33,6 +33,7 @@ The plugin must be called on a \<form> element.  Find the form you want, and the
 That's all you need to do.  Custom events will be sent to the Google Analytics for that site.  Custom events will tell you:
 
 1. If users are filling out forms on that page, or leaving them untouched.
+2. If users are partially filling out your forms and then giving up and leaving the page.
 2. Whether the form has been submitted.
 3. What fields they've filled out when the form is submitted.
 
