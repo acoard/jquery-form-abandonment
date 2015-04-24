@@ -14,7 +14,7 @@
  
     var pluginName = "trackEngagement",
         defaults = {
-            abandonmentCateogry: 'form',
+            abandonmentCateogry: 'abandonment',
             abandonmentAction: 'abandonedForm',
             abandonedLabel: 'Left form unchanged',
             notAbandonedLabel : 'Filled out form',
