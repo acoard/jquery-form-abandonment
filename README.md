@@ -28,7 +28,7 @@ Download jquery.form-abandonment.js and load it in a script tag AFTER jQuery has
 
 The plugin must be called on a \<form> element.  Find the form you want, and then call:
 
-    $('form').trackAbandonment();
+    $('form').trackEngagement();
 
 That's all you need to do.  Custom events will be sent to the Google Analytics for that site.  Custom events will tell you:
 
