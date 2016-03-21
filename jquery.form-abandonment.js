@@ -36,7 +36,7 @@
         // the options via the instance, e.g. this.element
         // and this.options
 
-        if (this.element.tagName.indexOf('form') !== -1){
+        if (this.element.tagName.toLowerCase().indexOf('form') !== -1){
             leftPageWithoutFillingOutAnything(this.element);
             submitEvent(this.element);
         }
